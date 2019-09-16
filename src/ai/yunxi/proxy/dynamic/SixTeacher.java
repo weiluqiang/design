@@ -1,4 +1,4 @@
-package ai.yunxi.dynamic;
+package ai.yunxi.proxy.dynamic;
 
 //被代理类
 public class SixTeacher implements BigDataTeacher {

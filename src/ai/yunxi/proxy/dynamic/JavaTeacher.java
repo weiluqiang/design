@@ -1,4 +1,4 @@
-package ai.yunxi.dynamic;
+package ai.yunxi.proxy.dynamic;
 
 public interface JavaTeacher {
 
