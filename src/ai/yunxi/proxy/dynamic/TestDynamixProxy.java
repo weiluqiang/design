@@ -6,7 +6,7 @@ package ai.yunxi.proxy.dynamic;
  * @author : Five-云析学院
  * @since : 2019年04月17日 20:45
  */
-public class DynamixProxyTest {
+public class TestDynamixProxy {
 
     public static void main(String[] args) {
         Dynamic<JavaTeacher> dynamic1 = new Dynamic<>(new FiveTeacher());

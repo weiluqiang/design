@@ -1,5 +1,8 @@
 package ai.yunxi.decorate;
 
+/**
+ * 装饰者模式
+ */
 public class TestDecorate {
 
     public static void main(String[] args) {

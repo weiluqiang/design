@@ -7,7 +7,7 @@ package ai.yunxi.proxy;
  * @author : Five-云析学院
  * @since : 2019年04月17日 20:33
  */
-public class ProxyTest {
+public class TestProxy {
 
     public static void main(String[] args) {
         Teacher teacher = new ProxyTeacher(new FiveTeacher());
