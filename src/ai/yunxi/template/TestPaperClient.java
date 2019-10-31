@@ -1,5 +1,8 @@
 package ai.yunxi.template;
 
+/**
+ * 模版方法模式
+ */
 public class TestPaperClient {
 
     public static void main(String[] args) {
