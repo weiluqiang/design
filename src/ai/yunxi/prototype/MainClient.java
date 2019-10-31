@@ -1,5 +1,8 @@
 package ai.yunxi.prototype;
 
+/**
+ * 原型模式
+ */
 public class MainClient {
 
     public static void main(String[] args) {
