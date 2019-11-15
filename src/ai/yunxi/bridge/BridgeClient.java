@@ -1,5 +1,6 @@
 package ai.yunxi.bridge;
 
+//桥接模式
 public class BridgeClient {
 
     public static void main(String[] args) {
