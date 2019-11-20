@@ -1,4 +1,4 @@
-package ai.yunxi.visitor;
+package ai.yunxi.visitor.sample;
 
 public class Meat extends Dish {
 

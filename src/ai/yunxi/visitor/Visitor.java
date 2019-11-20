@@ -1,6 +1,9 @@
 package ai.yunxi.visitor;
 
+//抽象访问者
 public interface Visitor {
 
-    void choose(Dish dish);
+    void visit(ConcreteElementA element);
+
+    void visit(ConcreteElementB element);
 }

@@ -1,4 +1,4 @@
-package ai.yunxi.visitor;
+package ai.yunxi.visitor.sample;
 
 import java.util.ArrayList;
 import java.util.List;
