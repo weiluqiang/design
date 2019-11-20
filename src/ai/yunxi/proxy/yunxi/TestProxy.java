@@ -1,4 +1,4 @@
-package ai.yunxi.proxy;
+package ai.yunxi.proxy.yunxi;
 
 /**
  * 静态代理

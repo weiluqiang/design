@@ -1,4 +1,4 @@
-package ai.yunxi.proxy.dynamic;
+package ai.yunxi.proxy.yunxi.dynamic;
 
 import java.io.FileOutputStream;
 import java.io.IOException;

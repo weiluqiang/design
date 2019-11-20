@@ -1,4 +1,4 @@
-package ai.yunxi.proxy.dynamic;
+package ai.yunxi.proxy.yunxi.dynamic;
 
 //被代理类
 public class FiveTeacher implements JavaTeacher {

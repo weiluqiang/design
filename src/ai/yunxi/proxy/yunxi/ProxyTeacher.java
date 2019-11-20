@@ -1,4 +1,4 @@
-package ai.yunxi.proxy;
+package ai.yunxi.proxy.yunxi;
 
 //代理类
 public class ProxyTeacher implements Teacher {

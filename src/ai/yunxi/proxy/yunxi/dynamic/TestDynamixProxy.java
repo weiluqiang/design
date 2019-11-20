@@ -1,4 +1,4 @@
-package ai.yunxi.proxy.dynamic;
+package ai.yunxi.proxy.yunxi.dynamic;
 
 /**
  * 动态代理

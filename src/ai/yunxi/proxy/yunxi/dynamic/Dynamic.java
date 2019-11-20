@@ -1,4 +1,4 @@
-package ai.yunxi.proxy.dynamic;
+package ai.yunxi.proxy.yunxi.dynamic;
 
 import java.lang.reflect.InvocationHandler;
 import java.lang.reflect.Method;

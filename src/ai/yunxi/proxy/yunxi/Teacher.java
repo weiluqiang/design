@@ -1,4 +1,4 @@
-package ai.yunxi.proxy;
+package ai.yunxi.proxy.yunxi;
 
 public interface Teacher {
 
