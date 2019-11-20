@@ -1,4 +1,4 @@
-package ai.yunxi.decorate;
+package ai.yunxi.decorate.cypher;
 
 // 先进加密装饰者
 public class AdvancedCipher extends CipherDecorator {

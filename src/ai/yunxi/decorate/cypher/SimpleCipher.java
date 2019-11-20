@@ -1,4 +1,4 @@
-package ai.yunxi.decorate;
+package ai.yunxi.decorate.cypher;
 
 // 简单密文接口实现类
 public class SimpleCipher implements Cipher {

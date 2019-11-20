@@ -1,4 +1,4 @@
-package ai.yunxi.decorate;
+package ai.yunxi.decorate.cypher;
 
 /**
  * 装饰者模式

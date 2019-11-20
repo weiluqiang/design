@@ -1,4 +1,4 @@
-package ai.yunxi.decorate;
+package ai.yunxi.decorate.cypher;
 
 // 密文装饰者
 public class CipherDecorator implements Cipher {

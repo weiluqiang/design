@@ -1,9 +1,4 @@
-package ai.yunxi.decorate;
-
-import com.sun.deploy.util.ArrayUtil;
-
-import java.util.Arrays;
-import java.util.Collections;
+package ai.yunxi.decorate.cypher;
 
 // 复杂加密装饰者
 public class ComplexCipher extends CipherDecorator {
