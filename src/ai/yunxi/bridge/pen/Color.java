@@ -1,4 +1,4 @@
-package ai.yunxi.bridge;
+package ai.yunxi.bridge.pen;
 
 //实现类接口
 public interface Color {

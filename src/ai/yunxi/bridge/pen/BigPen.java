@@ -1,4 +1,4 @@
-package ai.yunxi.bridge;
+package ai.yunxi.bridge.pen;
 
 //扩充抽象类
 public class BigPen extends Pen {

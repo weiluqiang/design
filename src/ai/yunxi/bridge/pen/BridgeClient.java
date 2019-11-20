@@ -1,4 +1,4 @@
-package ai.yunxi.bridge;
+package ai.yunxi.bridge.pen;
 
 //桥接模式
 public class BridgeClient {

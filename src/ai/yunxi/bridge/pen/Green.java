@@ -1,4 +1,4 @@
-package ai.yunxi.bridge;
+package ai.yunxi.bridge.pen;
 
 //扩充实现类
 public class Green implements Color {

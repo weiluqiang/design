@@ -1,4 +1,4 @@
-package ai.yunxi.bridge;
+package ai.yunxi.bridge.pen;
 
 //抽象类
 public abstract class Pen {
