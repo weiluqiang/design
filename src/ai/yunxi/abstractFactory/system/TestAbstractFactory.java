@@ -1,4 +1,4 @@
-package ai.yunxi.factory.abstractFactory;
+package ai.yunxi.abstractFactory.system;
 
 /**
  * 抽象工厂模式

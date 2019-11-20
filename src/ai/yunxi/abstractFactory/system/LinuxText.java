@@ -1,4 +1,4 @@
-package ai.yunxi.factory.abstractFactory;
+package ai.yunxi.abstractFactory.system;
 
 public class LinuxText implements Text {
 
