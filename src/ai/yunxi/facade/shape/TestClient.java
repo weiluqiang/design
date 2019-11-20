@@ -1,4 +1,4 @@
-package ai.yunxi.facade;
+package ai.yunxi.facade.shape;
 
 /**
  * 外观模式

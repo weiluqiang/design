@@ -1,4 +1,4 @@
-package ai.yunxi.facade;
+package ai.yunxi.facade.shape;
 
 /**
  * 子系统(SubSystem)角色
