@@ -1,4 +1,4 @@
-package ai.yunxi.factory;
+package ai.yunxi.factory.operation;
 
 import ai.yunxi.factory.simple.Multiply;
 import ai.yunxi.factory.simple.Operation;
