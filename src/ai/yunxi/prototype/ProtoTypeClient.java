@@ -3,7 +3,7 @@ package ai.yunxi.prototype;
 /**
  * 原型模式
  */
-public class MainClient {
+public class ProtoTypeClient {
 
     public static void main(String[] args) {
         Manager manager = new Manager();
