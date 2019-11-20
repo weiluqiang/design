@@ -26,7 +26,7 @@ public class SimpleFactory {
         System.out.println(message);
     }
 
-    public static Operation newOperation(String operator) {
+    public static Operation getOperation(String operator) {
         switch (operator) {
             case "+":
                 return newAdd();

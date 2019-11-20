@@ -13,14 +13,14 @@ package ai.yunxi.factory.simple;
 public class TestSimpleFactory {
 
     public static void main(String[] args) throws Exception {
-        Operation add = SimpleFactory.newOperation("+");
-        Operation subtract = SimpleFactory.newOperation("-");
-        Operation multiply = SimpleFactory.newOperation("*");
-        Operation divide = SimpleFactory.newOperation("/");
+        Operation add = SimpleFactory.getOperation("+");
+        Operation subtract = SimpleFactory.getOperation("-");
+        Operation multiply = SimpleFactory.getOperation("*");
+        Operation divide = SimpleFactory.getOperation("/");
 
-        System.out.println(add.calculate(1, 2));
-        System.out.println(subtract.calculate(1, 2));
-        System.out.println(multiply.calculate(1, 2));
-        System.out.println(divide.calculate(1, 2));
+        System.out.println(add.compute(1, 2));
+        System.out.println(subtract.compute(1, 2));
+        System.out.println(multiply.compute(1, 2));
+        System.out.println(divide.compute(1, 2));
     }
 }

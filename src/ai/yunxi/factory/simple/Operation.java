@@ -2,5 +2,5 @@ package ai.yunxi.factory.simple;
 
 public interface Operation {
 
-    double calculate(double num1, double num2) throws Exception;
+    double compute(double num1, double num2) throws Exception;
 }

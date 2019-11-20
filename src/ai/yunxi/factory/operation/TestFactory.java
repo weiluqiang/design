@@ -30,9 +30,9 @@ public class TestFactory {
         Operation multiply = multiplyFactory.newOperation();
         Operation divide = divideFactory.newOperation();
 
-        System.out.println(add.calculate(1, 2));
-        System.out.println(sub.calculate(1, 2));
-        System.out.println(multiply.calculate(1, 2));
-        System.out.println(divide.calculate(1, 2));
+        System.out.println(add.compute(1, 2));
+        System.out.println(sub.compute(1, 2));
+        System.out.println(multiply.compute(1, 2));
+        System.out.println(divide.compute(1, 2));
     }
 }
