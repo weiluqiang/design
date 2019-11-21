@@ -1,11 +1,11 @@
-package ai.yunxi.responsibility;
+package ai.yunxi.responsibility.flow;
 
-//具体处理者2：系主任类
-public class DepartmentHead extends Leader {
+//具体处理者3：院长类
+public class Dean extends Leader {
 
     public void handleRequest(int LeaveDays) {
-        if (LeaveDays <= 7) {
-            System.out.println("系主任批准您请假" + LeaveDays + "天。");
+        if (LeaveDays <= 10) {
+            System.out.println("院长批准您请假" + LeaveDays + "天。");
         } else {
             if (getNext() != null) {
                 getNext().handleRequest(LeaveDays);

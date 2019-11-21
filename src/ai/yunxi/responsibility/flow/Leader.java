@@ -1,4 +1,4 @@
-package ai.yunxi.responsibility;
+package ai.yunxi.responsibility.flow;
 
 //抽象处理者：领导类
 public abstract class Leader {
