@@ -1,4 +1,4 @@
-package ai.yunxi.composite;
+package ai.yunxi.composite.sample;
 
 //抽象根类：Component
 public abstract class Directory {

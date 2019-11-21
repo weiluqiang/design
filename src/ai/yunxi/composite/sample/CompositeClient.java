@@ -1,4 +1,4 @@
-package ai.yunxi.composite;
+package ai.yunxi.composite.sample;
 
 //组合模式
 public class CompositeClient {

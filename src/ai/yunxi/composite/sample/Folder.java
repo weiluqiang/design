@@ -1,8 +1,9 @@
-package ai.yunxi.composite;
+package ai.yunxi.composite.sample;
 
 import java.util.ArrayList;
 import java.util.List;
 
+//树枝节点：Composite
 public class Folder extends Directory {
 
     private List<Directory> mDirs;

@@ -1,4 +1,4 @@
-package ai.yunxi.composite;
+package ai.yunxi.composite.sample;
 
 //叶子节点：Leaf
 public class File extends Directory {
