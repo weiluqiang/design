@@ -1,4 +1,4 @@
-package ai.yunxi.template;
+package ai.yunxi.template.paper;
 
 /**
  * 模版方法模式

@@ -1,20 +1,20 @@
-package ai.yunxi.template;
+package ai.yunxi.template.paper;
 
-public class TestPaperB extends TestPaper {
+public class TestPaperA extends TestPaper {
 
     @Override
     public String answer1() {
-        return "a";
+        return "d";
     }
 
     @Override
     public String answer2() {
-        return "a";
+        return "c";
     }
 
     @Override
     public String answer3() {
-        return "a";
+        return "c";
     }
 
 }

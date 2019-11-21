@@ -1,4 +1,4 @@
-package ai.yunxi.template;
+package ai.yunxi.template.paper;
 
 public abstract class TestPaper {
 
