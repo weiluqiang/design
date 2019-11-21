@@ -8,7 +8,7 @@ public class CalculateContext {
         this.calculator = calculator;
     }
 
-    public int calculate(int a, int b) {
-        return this.calculator.calculate(a, b);
+    public int compute(int a, int b) {
+        return this.calculator.compute(a, b);
     }
 }

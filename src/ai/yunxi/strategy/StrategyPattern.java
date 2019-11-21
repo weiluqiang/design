@@ -23,5 +23,16 @@ package ai.yunxi.strategy;
  * 抽象策略角色(Strategy)：规定策略或算法的行为；
  * 具体策略角色(ConcreteStrategy)：具体的策略或算法实现；
  */
-public class TestStrategy {
+public class StrategyPattern {
+
+    public static void main(String[] args) {
+        Context c = new Context();
+        Strategy s = new ConcreteStrategyA();
+        c.setStrategy(s);
+        c.strategyMethod();
+        System.out.println("-----------------");
+        s = new ConcreteStrategyB();
+        c.setStrategy(s);
+        c.strategyMethod();
+    }
 }

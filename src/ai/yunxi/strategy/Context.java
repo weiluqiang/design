@@ -1,15 +1,19 @@
 package ai.yunxi.strategy;
 
-// 上下文环境
+//环境类
 public class Context {
 
     private Strategy strategy;
 
-    public Context(Strategy strategy) {
+    public Strategy getStrategy() {
+        return strategy;
+    }
+
+    public void setStrategy(Strategy strategy) {
         this.strategy = strategy;
     }
 
-    public void algorithm() {
-        this.strategy.algorithm();
+    public void strategyMethod() {
+        strategy.strategyMethod();
     }
 }

@@ -4,7 +4,7 @@ package ai.yunxi.strategy.calculate;
 public class Add implements Calculator {
 
     @Override
-    public int calculate(int a, int b) {
+    public int compute(int a, int b) {
         return a + b;
     }
 }
