@@ -1,4 +1,4 @@
-package ai.yunxi.state;
+package ai.yunxi.state.atm;
 
 /**
  * 准备就绪（Ready），可用接口：全部

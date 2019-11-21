@@ -1,4 +1,4 @@
-package ai.yunxi.state;
+package ai.yunxi.state.atm;
 
 /**
  * 故障（NoService），可用接口：无

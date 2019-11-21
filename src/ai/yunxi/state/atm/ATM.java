@@ -1,4 +1,4 @@
-package ai.yunxi.state;
+package ai.yunxi.state.atm;
 
 /**
  * ATM机

@@ -1,4 +1,4 @@
-package ai.yunxi.state;
+package ai.yunxi.state.atm;
 
 /**
  * 无钞（NoCash），可用接口：1，2，4，5
