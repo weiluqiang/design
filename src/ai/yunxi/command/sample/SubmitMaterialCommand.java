@@ -1,4 +1,4 @@
-package ai.yunxi.command;
+package ai.yunxi.command.sample;
 
 //提交材料通知
 public class SubmitMaterialCommand implements Command {

@@ -1,4 +1,4 @@
-package ai.yunxi.command;
+package ai.yunxi.command.sample;
 
 //班长(调用者)
 public class Monitor {

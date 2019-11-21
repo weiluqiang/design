@@ -1,4 +1,4 @@
-package ai.yunxi.command;
+package ai.yunxi.command.sample;
 
 //学生
 public class Student {

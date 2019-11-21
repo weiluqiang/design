@@ -1,6 +1,6 @@
-package ai.yunxi.command;
+package ai.yunxi.command.sample;
 
-//抽象命令
+//通知
 public interface Command {
 
     void execute();

@@ -1,4 +1,4 @@
-package ai.yunxi.command;
+package ai.yunxi.command.sample;
 
 //开会通知
 public class MeetCommand implements Command {

@@ -1,4 +1,4 @@
-package ai.yunxi.command;
+package ai.yunxi.command.sample;
 
 //讲座通知
 public class LectureCommand implements Command {
