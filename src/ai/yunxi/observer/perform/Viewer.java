@@ -1,4 +1,4 @@
-package ai.yunxi.observer;
+package ai.yunxi.observer.perform;
 
 import java.util.Observable;
 import java.util.Observer;

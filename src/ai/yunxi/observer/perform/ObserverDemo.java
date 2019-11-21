@@ -1,4 +1,4 @@
-package ai.yunxi.observer;
+package ai.yunxi.observer.perform;
 
 /**
  * 观察者模式
