@@ -1,4 +1,4 @@
-package ai.yunxi.memento;
+package ai.yunxi.memento.chess;
 
 /**
  * 备忘录模式
